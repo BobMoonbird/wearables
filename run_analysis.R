@@ -86,7 +86,10 @@ new_tidy[,67] = labls
 names(new_tidy) = names(needed_set)
 
 #get rid of NAs
-tidynona = new_tidy[!is.na(new_tidy[,2]),]
+tidynona1 = new_tidy[!is.na(new_tidy[,2]),]
+
+tidynona = tidynona1[,c(67,68)]
+tidynona = cbind(tidynona, tidynona1[,1:66])
 
 write.table(tidynona, "tidy_data_wearables.txt", row.names = FALSE)
 #write.table(new_tidy, "tidy_data_with_na.txt", row.names = FALSE)
