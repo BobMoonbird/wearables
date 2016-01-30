@@ -1,68 +1,68 @@
 "activitylabel" - Shows to which activity the measurement refers: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STADNING, LAYING 
 "subject" - a number from 1 to 30 referring to a subject taking part in the experiment
-"tbodyaccmeanx"
-"tbodyaccmeany"
-"tbodyaccmeanz"
-"tbodyaccstdx"
-"tbodyaccstdy"
-"tbodyaccstdz"
-"tgravityaccmeanx"
-"tgravityaccmeany"
-"tgravityaccmeanz"
-"tgravityaccstdx"
-"tgravityaccstdy"
-"tgravityaccstdz"
-"tbodyaccjerkmeanx"
-"tbodyaccjerkmeany"
-"tbodyaccjerkmeanz"
-"tbodyaccjerkstdx"
-"tbodyaccjerkstdy"
-"tbodyaccjerkstdz"
-"tbodygyromeanx"
-"tbodygyromeany"
-"tbodygyromeanz"
-"tbodygyrostdx"
-"tbodygyrostdy"
-"tbodygyrostdz"
-"tbodygyrojerkmeanx"
-"tbodygyrojerkmeany"
-"tbodygyrojerkmeanz"
-"tbodygyrojerkstdx"
-"tbodygyrojerkstdy"
-"tbodygyrojerkstdz"
-"tbodyaccmagmean"
-"tbodyaccmagstd"
-"tgravityaccmagmean"
-"tgravityaccmagstd"
-"tbodyaccjerkmagmean"
-"tbodyaccjerkmagstd"
-"tbodygyromagmean"
-"tbodygyromagstd"
-"tbodygyrojerkmagmean"
-"tbodygyrojerkmagstd"
-"fbodyaccmeanx"
-"fbodyaccmeany"
-"fbodyaccmeanz"
-"fbodyaccstdx"
-"fbodyaccstdy"
-"fbodyaccstdz"
-"fbodyaccjerkmeanx"
-"fbodyaccjerkmeany"
-"fbodyaccjerkmeanz"
-"fbodyaccjerkstdx"
-"fbodyaccjerkstdy"
-"fbodyaccjerkstdz"
-"fbodygyromeanx"
-"fbodygyromeany"
-"fbodygyromeanz"
-"fbodygyrostdx"
-"fbodygyrostdy"
-"fbodygyrostdz"
-"fbodyaccmagmean"
-"fbodyaccmagstd"
-"fbodybodyaccjerkmagmean"
-"fbodybodyaccjerkmagstd"
-"fbodybodygyromagmean"
-"fbodybodygyromagstd"
-"fbodybodygyrojerkmagmean"
-"fbodybodygyrojerkmagstd"
+"tbodyaccmeanx" mean value of raw time doamin signal on x axis coming from accelerometer
+"tbodyaccmeany" mean value of raw time doamin signal on y axis coming from accelerometer
+"tbodyaccmeanz" mean value of raw time doamin signal on z axis coming from accelerometer
+"tbodyaccstdx" standard deviation value of raw time doamin signal on x axis coming from accelerometer
+"tbodyaccstdy" standard deviation value of raw time doamin signal on y axis coming from accelerometer
+"tbodyaccstdz" standard deviation value of raw time doamin signal on z axis coming from accelerometer
+"tgravityaccmeanx" mean value
+"tgravityaccmeany" mean value
+"tgravityaccmeanz" mean value
+"tgravityaccstdx" standard deviation value
+"tgravityaccstdy" standard deviation value
+"tgravityaccstdz" standard deviation value
+"tbodyaccjerkmeanx" mean value of Jerk time domain signal on x axis coming from accelerometer
+"tbodyaccjerkmeany" mean value of Jerk time domain signal on y axis coming from accelerometer
+"tbodyaccjerkmeanz" mean value of Jerk time domain signal on z axis coming from accelerometer
+"tbodyaccjerkstdx" standard deviation value of Jerk time domain signal on x axis coming from accelerometer
+"tbodyaccjerkstdy" standard deviation value of Jerk time domain signal on y axis coming from accelerometer
+"tbodyaccjerkstdz" standard deviation value of Jerk time domain signal on z axis coming from accelerometer
+"tbodygyromeanx" mean value of raw time doamin signal on x axis coming from gyroscope
+"tbodygyromeany" mean value of raw time doamin signal on y axis coming from gyroscope
+"tbodygyromeanz" mean value of raw time doamin signal on z axis coming from gyroscope
+"tbodygyrostdx" standard deviation value of raw time doamin signal on x axis coming from gyroscope
+"tbodygyrostdy" standard deviation value of raw time doamin signal on y axis coming from gyroscope
+"tbodygyrostdz" standard deviation value of raw time doamin signal on z axis coming from gyroscope
+"tbodygyrojerkmeanx" mean value of Jerk time domain signal on x axis coming from gyroscope
+"tbodygyrojerkmeany" mean value of Jerk time domain signal on y axis coming from gyroscope
+"tbodygyrojerkmeanz" mean value of Jerk time domain signal on z axis coming from gyroscope
+"tbodygyrojerkstdx" standard deviation value of Jerk time domain signal on x axis coming from gyroscope
+"tbodygyrojerkstdy" standard deviation value of Jerk time domain signal on y axis coming from gyroscope
+"tbodygyrojerkstdz" standard deviation value of Jerk time domain signal on z axis coming from gyroscope
+"tbodyaccmagmean" mean value
+"tbodyaccmagstd" standard deviation value
+"tgravityaccmagmean" mean value
+"tgravityaccmagstd" standard deviation value
+"tbodyaccjerkmagmean" mean value
+"tbodyaccjerkmagstd" standard deviation value
+"tbodygyromagmean" mean value
+"tbodygyromagstd" standard deviation value
+"tbodygyrojerkmagmean" mean value
+"tbodygyrojerkmagstd" standard deviation value
+"fbodyaccmeanx" mean value
+"fbodyaccmeany" mean value
+"fbodyaccmeanz" mean value
+"fbodyaccstdx" standard deviation value
+"fbodyaccstdy" standard deviation value
+"fbodyaccstdz" standard deviation value
+"fbodyaccjerkmeanx" mean value
+"fbodyaccjerkmeany" mean value
+"fbodyaccjerkmeanz" mean value
+"fbodyaccjerkstdx" standard deviation value
+"fbodyaccjerkstdy" standard deviation value
+"fbodyaccjerkstdz" standard deviation value
+"fbodygyromeanx" mean value
+"fbodygyromeany" mean value
+"fbodygyromeanz" mean value
+"fbodygyrostdx" standard deviation value
+"fbodygyrostdy" standard deviation value
+"fbodygyrostdz" standard deviation value
+"fbodyaccmagmean" mean value
+"fbodyaccmagstd" standard deviation value
+"fbodybodyaccjerkmagmean" mean value
+"fbodybodyaccjerkmagstd" standard deviation value
+"fbodybodygyromagmean" mean value
+"fbodybodygyromagstd" standard deviation value
+"fbodybodygyrojerkmagmean" mean value
+"fbodybodygyrojerkmagstd" standard deviation value
