@@ -23,6 +23,17 @@ functions "tolower" and  "gsub" are used for that.
 
 The next step is to reshape the set: it should show mean measurements for each activity, subect anf variable.
 
+To acheve that an empty data frame, empty character vector and a double loop is created, on for activities (with 6 iterations) and one for subjects (30 iterations).
+There is just the secnd loop inside the first one, so the main thing is inside the second one.
+The variable avg is introduced, and result of a subset on a "needed_set" is inside. The subset takes all lines for the specific activity ("needed_set[,67]==act_labels[n,2]" means that values in 67th columns (activity) that are equal to current needed activity (n) should be subset) and specifir subject (x stands for current calculated subject number).
+
+Then the mean for each variable is calculated using sapply, and row-binded to "new_tidy" dataframe,
+and vector with activity labels is updated for further usage (labls).
+
+After all iteration for both loops are done, "labls" vector is added as a new column of new_tidy data frame, and columns names of "needed_set" are passed to "new_tidy" data frame. 
+
+Then NAs are removed. Though, this script can write both data sets, with and without NA - you should just choose which line to "mute" with # symbol.
+
 
 
 
