@@ -30,39 +30,39 @@
 "tbodygyrojerkstdx" standard deviation value of Jerk time domain signal on x axis coming from gyroscope
 "tbodygyrojerkstdy" standard deviation value of Jerk time domain signal on y axis coming from gyroscope
 "tbodygyrojerkstdz" standard deviation value of Jerk time domain signal on z axis coming from gyroscope
-"tbodyaccmagmean" mean value
-"tbodyaccmagstd" standard deviation value
+"tbodyaccmagmean" mean value of magnitude of all three-dimensional signals coming from accelerometer
+"tbodyaccmagstd" standard deviation value of magnitude of all three-dimensional signals coming from accelerometer
 "tgravityaccmagmean" mean value
 "tgravityaccmagstd" standard deviation value
-"tbodyaccjerkmagmean" mean value
-"tbodyaccjerkmagstd" standard deviation value
-"tbodygyromagmean" mean value
-"tbodygyromagstd" standard deviation value
-"tbodygyrojerkmagmean" mean value
-"tbodygyrojerkmagstd" standard deviation value
-"fbodyaccmeanx" mean value
-"fbodyaccmeany" mean value
-"fbodyaccmeanz" mean value
-"fbodyaccstdx" standard deviation value
-"fbodyaccstdy" standard deviation value
-"fbodyaccstdz" standard deviation value
-"fbodyaccjerkmeanx" mean value
-"fbodyaccjerkmeany" mean value
-"fbodyaccjerkmeanz" mean value
-"fbodyaccjerkstdx" standard deviation value
-"fbodyaccjerkstdy" standard deviation value
-"fbodyaccjerkstdz" standard deviation value
-"fbodygyromeanx" mean value
-"fbodygyromeany" mean value
-"fbodygyromeanz" mean value
-"fbodygyrostdx" standard deviation value
-"fbodygyrostdy" standard deviation value
-"fbodygyrostdz" standard deviation value
-"fbodyaccmagmean" mean value
-"fbodyaccmagstd" standard deviation value
-"fbodybodyaccjerkmagmean" mean value
-"fbodybodyaccjerkmagstd" standard deviation value
-"fbodybodygyromagmean" mean value
-"fbodybodygyromagstd" standard deviation value
-"fbodybodygyrojerkmagmean" mean value
-"fbodybodygyrojerkmagstd" standard deviation value
+"tbodyaccjerkmagmean" mean value of magnitude of all three-dimensional Jerk signals coming from accelerometer
+"tbodyaccjerkmagstd" standard deviation value of magnitude of all three-dimensional Jerk signals coming from accelerometer
+"tbodygyromagmean" mean value of magnitude of all three-dimensional signals coming from gyroscope
+"tbodygyromagstd" standard deviation value of magnitude of all three-dimensional signals coming from gyroscope
+"tbodygyrojerkmagmean" mean value of magnitude of all three-dimensional Jerk signals coming from gyroscope
+"tbodygyrojerkmagstd" standard deviation value of magnitude of all three-dimensional Jerk signals coming from gyroscope
+"fbodyaccmeanx" mean value of Fast Fourier Transformed signal on x axis coming from accelerometer 
+"fbodyaccmeany" mean value of Fast Fourier Transformed signal on y axis coming from accelerometer
+"fbodyaccmeanz" mean value of Fast Fourier Transformed signal on z axis coming from accelerometer
+"fbodyaccstdx" standard deviation value of Fast Fourier Transformed signal on x axis coming from accelerometer
+"fbodyaccstdy" standard deviation value of Fast Fourier Transformed signal on y axis coming from accelerometer
+"fbodyaccstdz" standard deviation value of Fast Fourier Transformed signal on z axis coming from accelerometer
+"fbodyaccjerkmeanx" mean value of Jerk Fast Fourier Transformed signal on x axis coming from accelerometer
+"fbodyaccjerkmeany" mean value of Jerk Fast Fourier Transformed signal on y axis coming from accelerometer
+"fbodyaccjerkmeanz" mean value of Jerk Fast Fourier Transformed signal on z axis coming from accelerometer
+"fbodyaccjerkstdx" standard deviation value of Jerk Fast Fourier Transformed signal on x axis coming from accelerometer
+"fbodyaccjerkstdy" standard deviation value of Jerk Fast Fourier Transformed signal on y axis coming from accelerometer
+"fbodyaccjerkstdz" standard deviation value of Jerk Fast Fourier Transformed signal on z axis coming from accelerometer
+"fbodygyromeanx" mean value of Fast Fourier Transformed signal on x axis coming from gyroscope
+"fbodygyromeany" mean value of Fast Fourier Transformed signal on y axis coming from gyroscope
+"fbodygyromeanz" mean value of Fast Fourier Transformed signal on z axis coming from gyroscope
+"fbodygyrostdx" standard deviation value of Fast Fourier Transformed signal on x axis coming from gyroscope
+"fbodygyrostdy" standard deviation value of Fast Fourier Transformed signal on y axis coming from gyroscope
+"fbodygyrostdz" standard deviation value of Fast Fourier Transformed signal on z axis coming from gyroscope
+"fbodyaccmagmean" mean value of magnitude of all three-dimensional Fast Fourier Transformed signal coming from accelerometer
+"fbodyaccmagstd" standard deviation value of magnitude of all three-dimensional Fast Fourier Transformed signal coming from accelerometer
+"fbodybodyaccjerkmagmean" mean value of magnitude of all three-dimensional Jerk Fast Fourier Transformed signal coming from accelerometer
+"fbodybodyaccjerkmagstd" standard deviation value of magnitude of all three-dimensional Jerk Fast Fourier Transformed signal coming from accelerometer
+"fbodybodygyromagmean" mean value of magnitude of all three-dimensional Fast Fourier Transformed signal coming from gyroscope
+"fbodybodygyromagstd" standard deviation value of magnitude of  all three-dimensional Fast Fourier Transformed signal coming from gyroscope
+"fbodybodygyrojerkmagmean" mean value of magnitude of  all three-dimensional Jerk Fast Fourier Transformed signal coming from gyroscope
+"fbodybodygyrojerkmagstd" standard deviation value of magnitude of  all three-dimensional Jerk Fast Fourier Transformed signal coming from gyroscope
