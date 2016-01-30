@@ -1,5 +1,5 @@
-"activitylabel"
-"subject"
+"activitylabel" - Shows to which activity the measurement refers: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STADNING, LAYING 
+"subject" - a number from 1 to 30 referring to a subject taking part in the experiment
 "tbodyaccmeanx"
 "tbodyaccmeany"
 "tbodyaccmeanz"
